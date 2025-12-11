@@ -17,6 +17,7 @@
     "express": "^4.19.2"
   },
   "devDependencies": {
+    "cypress": "^15.7.1",
     "jsdom": "^27.3.0",
     "vitest": "^4.0.15"
   }
